@@ -148,7 +148,7 @@ let _ =
 
 *)
 
-(** ** By Means of Compoments *)
+(** ** By Means of Components *)
 
 (** The second way to extend FreeSpec.Exec is to write handlers in Coq, in the
     form of FreeSpec compoments. This approach has an important advantage over
